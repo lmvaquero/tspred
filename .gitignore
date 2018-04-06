@@ -1,1 +1,4 @@
-./pynb_checkpoints/*
+./ipynb_checkpoints/*
+src/.ipynb_*
+dev/.ipynb_*
+prod/.ipynb_*
