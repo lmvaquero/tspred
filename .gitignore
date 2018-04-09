@@ -1,4 +1,4 @@
 ./ipynb_checkpoints/*
-src/.ipynb_*
-dev/.ipynb_*
-prod/.ipynb_*
+src/.ipynb_checkpoints/*
+dev/.ipynb_checkpoints/*
+prod/.ipynb_checkpoints/*
